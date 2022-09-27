@@ -1,4 +1,4 @@
-# Ignite-RocketSeat
+# Ignite-RocketSeat 🚀
 
 ## Projeto 01: Fundamentos do RectJS
     [] Iniciando com React
