@@ -1,7 +1,7 @@
 # Ignite-RocketSeat 🚀
 
 ## Projeto 01: Fundamentos do RectJS
-    [] Iniciando com React
+    [✅] Iniciando com React
     [] Estrutura da aplicação
     [] Os motores do React
     [] Aprimorando a aplicação
